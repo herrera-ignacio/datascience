@@ -1,6 +1,8 @@
 # Data Science
 
-* Introductory
-    * [ML, DL and AI](./introductory/differences)
-    * [Data cleaning](introductory/data-cleaning)
-* [Data Encoding](./data-encoding)
+* [ML, DL and AI](./differences)
+* [Data cleaning](./data-cleaning)
+* Preprocessing
+    * [Categorical Variables](./preprocessing/categorical-variables)
+    * [Data Encoding](./preprocessing/data-encoding)
+    * [Scaling Data](./preprocessing/scaling-data)
