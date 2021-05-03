@@ -3,6 +3,8 @@
 * [ML, DL and AI](./differences)
 * [Data cleaning](./data-cleaning)
 * [Categorical Variables](glossary/categorical-variables)
+* [Feature Engineering](glossary/feature-engineering)
+* [Features](glossary/features)
 * [Feature Columns](glossary/feature-columns)
 * Statistics
     * [Standard Deviation](statistics/standard-deviation)
