@@ -2,10 +2,10 @@
 
 * [ML, DL and AI](./differences)
 * [Data cleaning](./data-cleaning)
+* [Categorical Variables](./categorical-variables)
 * Statistics
-    * [Standard Deviatioon](./statistics/standard-deviation)
+    * [Standard Deviation](./statistics/standard-deviation)
 * Preprocessing
-    * [Categorical Variables](./preprocessing/categorical-variables)
     * [Data Encoding](./preprocessing/data-encoding)
         * [Label Encoding](./preprocessing/data-encoding/label-encoding)
         * [One Hot Encoding](preprocessing/data-encoding/one-hot-encoding)
