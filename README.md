@@ -11,4 +11,6 @@
         * [One Hot Encoding](preprocessing/data-encoding/one-hot-encoding)
         * [Cardinal Encoding](preprocessing/data-encoding/cardinal-encoding)
         * [Helmert Encoding](preprocessing/data-encoding/helmert-encoding)
+        * [Binary Encoding](preprocessing/data-encoding/binary-encoding)
+        * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding)
     * [Feature scaling](preprocessing/feature-scaling)
