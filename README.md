@@ -2,7 +2,8 @@
 
 * [ML, DL and AI](./differences)
 * [Data cleaning](./data-cleaning)
-* [Categorical Variables](./categorical-variables)
+* [Categorical Variables](glossary/categorical-variables)
+* [Feature Columns](glossary/feature-columns)
 * Statistics
     * [Standard Deviation](statistics/standard-deviation)
 * Preprocessing
@@ -13,4 +14,5 @@
         * [Helmert Encoding](preprocessing/data-encoding/helmert-encoding)
         * [Binary Encoding](preprocessing/data-encoding/binary-encoding)
         * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding)
+        * [Mean Encoding](preprocessing/mean-encoding)
     * [Feature scaling](preprocessing/feature-scaling)
