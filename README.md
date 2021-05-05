@@ -3,7 +3,8 @@
 * [ML, DL and AI](./differences)
 * Statistics
     * [Standard Deviation](statistics/standard-deviation)
-    * [Regression analysis]()
+    * [Regression Analysis](statistics/regression)
+    * [Statistical Model](statistics/statistical-model)
 * Preprocessing
     * [Data cleaning](./data-cleaning)
     * [Data Encoding](preprocessing/data-encoding)
@@ -15,8 +16,8 @@
         * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding)
         * [Mean Encoding](preprocessing/mean-encoding)
     * [Feature scaling](preprocessing/feature-scaling)
-* [Regression Analysis](./regression)
-    * 
+
+
 * Glossary
     * [Categorical Variables](glossary/categorical-variables)
     * [Feature Engineering](glossary/feature-engineering)
