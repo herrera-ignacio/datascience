@@ -8,11 +8,12 @@
     * [Algebra](mathematics/algebra)
         * [Linear Algebra]
         * [Abstract Algebra]
-    * Number Theory
+        * [Differential Equations]
+    * [Number Theory](mathematics/number-theory)
         * [Arithmetic](mathematics/number-theory/arithmetic)
-    * [Topology]
-    * [Differential Equations]
-    * [Differential Geometry]
+    * [Geometry](mathematics/geometry)
+        * [Topology]
+        * [Differential Geometry]
     * [Constraint counting]
     * [System of linear equations]
     * [Undetermined system](mathematics/system-of-equations/undetermined-system)
