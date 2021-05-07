@@ -3,12 +3,15 @@
 * [ML, DL and AI](./differences)
 * [Mathematics](./mathematics)
     * [Mathematical Analysis](mathematics/analysis)
-    * [Real Analysis](mathematics/real-analysis)
-    * [Linear Algebra]
+        * [Real Analysis](mathematics/analysis/real-analysis)
+        * [Complex Analysis]
+    * [Algebra](mathematics/algebra)
+        * [Linear Algebra]
+        * [Abstract Algebra]
+    * Number Theory
+        * [Arithmetic](mathematics/number-theory/arithmetic)
     * [Topology]
     * [Differential Equations]
-    * [Complex Analysis]
-    * [Abstract Algebra]
     * [Differential Geometry]
     * [Constraint counting]
     * [System of linear equations]
