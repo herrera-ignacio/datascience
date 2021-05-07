@@ -1,7 +1,7 @@
 # Data Science
 
 * [ML, DL and AI](./differences)
-* [Mathematics]
+* [Mathematics](./mathematics)
     * [Mathematical Analysis](mathematics/analysis)
     * [Real Analysis](mathematics/real-analysis)
     * [Linear Algebra]
