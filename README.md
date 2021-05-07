@@ -2,6 +2,14 @@
 
 * [ML, DL and AI](./differences)
 * [Mathematics]
+    * [Mathematical Analysis](mathematics/analysis)
+    * [Real Analysis](mathematics/real-analysis)
+    * [Linear Algebra]
+    * [Topology]
+    * [Differential Equations]
+    * [Complex Analysis]
+    * [Abstract Algebra]
+    * [Differential Geometry]
     * [Constraint counting]
     * [System of linear equations]
     * [Undetermined system](mathematics/system-of-equations/undetermined-system)
@@ -35,3 +43,16 @@
     * [Feature Engineering](glossary/feature-engineering)
     * [Features](glossary/features)
     * [Feature Columns](glossary/feature-columns)
+
+## Great Books
+
+Recommended books to learn:
+
+* Understanding Analysis - Abbot
+* Linear Algebra Done Right - Sheldon Axler
+* Linar Algebra - Stephen H. Friedberg, Arnold J. Insel, and Lawrence E. Spence
+* Topology Through Inquiry - Michael Starbid and Francis Su
+* Differential Equations with Boundary-Value Problems - Dennis G. Zill and Michael R. Cullen
+* Contemporary Abstract Algebra - Joseph A. Gallian
+* A Geometric Approach to Differential Forms - David Bachman
+* An Introduction to Manifolds - Loring W. Tu
