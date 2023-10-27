@@ -1,8 +1,15 @@
 # Data Science
 
+* [Data Science](#data-science)
+  * [Must know concepts](#must-know-concepts)
+  * [Mathematics](#mathematics)
+    * [General](#general)
+    * [Statistics](#statistics)
+    * [Probability Theory](#probability-theory)
+  * [Data preprocessing](#data-preprocessing)
+  * [Recommended books](#recommended-books)
 
-
-## Must know concepts 
+## Must know concepts
 
 * [ML, DL and AI](glossary/differences/README.md)
 * [Categorical Variables](glossary/categorical-variables/README.md)
@@ -19,7 +26,7 @@
 * [Mathematical Analysis](mathematics/analysis/README.md)
 * [Algebra](mathematics/algebra/README.md)
 * [Number Theory](mathematics/number-theory/README.md)
-    * [Arithmetic](mathematics/number-theory/arithmetic/README.md)
+  * [Arithmetic](mathematics/number-theory/arithmetic/README.md)
 * [Geometry](mathematics/geometry/README.md)
 
 ### Statistics
@@ -39,15 +46,16 @@
 * Probability Measure
 
 ## Data preprocessing
+
 * [Data cleaning](preprocessing/data-cleaning/README.md)
 * [Data Encoding](preprocessing/data-encoding/README.md)
-    * [Label Encoding](preprocessing/data-encoding/label-encoding/README.md)
-    * [One Hot Encoding](preprocessing/data-encoding/one-hot-encoding/README.md)
-    * [Cardinal Encoding](preprocessing/data-encoding/cardinal-encoding/README.md)
-    * [Helmert Encoding](preprocessing/data-encoding/helmert-encoding/README.md)
-    * [Binary Encoding](preprocessing/data-encoding/binary-encoding/README.md)
-    * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding/README.md)
-    * [Mean Encoding](preprocessing/data-encoding/mean-encoding/README.md)
+  * [Label Encoding](preprocessing/data-encoding/label-encoding/README.md)
+  * [One Hot Encoding](preprocessing/data-encoding/one-hot-encoding/README.md)
+  * [Cardinal Encoding](preprocessing/data-encoding/cardinal-encoding/README.md)
+  * [Helmert Encoding](preprocessing/data-encoding/helmert-encoding/README.md)
+  * [Binary Encoding](preprocessing/data-encoding/binary-encoding/README.md)
+  * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding/README.md)
+  * [Mean Encoding](preprocessing/data-encoding/mean-encoding/README.md)
 * [Feature scaling](preprocessing/feature-scaling/README.md)
 
 ## Recommended books
