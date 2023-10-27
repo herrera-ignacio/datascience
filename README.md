@@ -1,56 +1,56 @@
 # Data Science
 
-* [ML, DL and AI](./differences)
-* [Mathematics](./mathematics)
-    * [Mathematical Analysis](mathematics/analysis)
-        * [Real Analysis](mathematics/analysis/real-analysis)
-        * [Complex Analysis]
-    * [Algebra](mathematics/algebra)
-        * [Linear Algebra]
-        * [Abstract Algebra]
-        * [Differential Equations]
-    * [Number Theory](mathematics/number-theory)
-        * [Arithmetic](mathematics/number-theory/arithmetic)
-    * [Geometry](mathematics/geometry)
-        * [Topology]
-        * [Differential Geometry]
-    * [Constraint counting]
-    * [System of linear equations]
-    * [Undetermined system](mathematics/system-of-equations/undetermined-system)
-    * [Gaussian elimination]
-* Statistics
-    * [Standard Deviation](statistics/standard-deviation)
-    * [Regression Analysis](statistics/regression)
-    * [Statistical Model](statistics/statistical-model)
-        * [Identifability]
-    * [Statistical Inference]
-* Probability Theory
-    * [Sample Space]
-    * [Random Variables]
-    * [Event]
-    * [Bernoulli trial]
-    * [Probability Distribution]
-    * [Probability Measure]
-* Preprocessing
-    * [Data cleaning](./data-cleaning)
-    * [Data Encoding](preprocessing/data-encoding)
-        * [Label Encoding](preprocessing/data-encoding/label-encoding)
-        * [One Hot Encoding](preprocessing/data-encoding/one-hot-encoding)
-        * [Cardinal Encoding](preprocessing/data-encoding/cardinal-encoding)
-        * [Helmert Encoding](preprocessing/data-encoding/helmert-encoding)
-        * [Binary Encoding](preprocessing/data-encoding/binary-encoding)
-        * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding)
-        * [Mean Encoding](preprocessing/mean-encoding)
-    * [Feature scaling](preprocessing/feature-scaling)
-* Glossary
-    * [Categorical Variables](glossary/categorical-variables)
-    * [Feature Engineering](glossary/feature-engineering)
-    * [Features](glossary/features)
-    * [Feature Columns](glossary/feature-columns)
 
-## Great Books
 
-Recommended books to learn:
+## Must know concepts 
+
+* [ML, DL and AI](glossary/differences/README.md)
+* [Categorical Variables](glossary/categorical-variables/README.md)
+* [Feature Engineering](glossary/feature-engineering/README.md)
+* [Features](glossary/features/README.md)
+* [Feature Columns](glossary/feature-columns/README.md)
+
+## Mathematics
+
+> [What are mathematics?](./mathematics/README.md)
+
+### General
+
+* [Mathematical Analysis](mathematics/analysis/README.md)
+* [Algebra](mathematics/algebra/README.md)
+* [Number Theory](mathematics/number-theory/README.md)
+    * [Arithmetic](mathematics/number-theory/arithmetic/README.md)
+* [Geometry](mathematics/geometry/README.md)
+
+### Statistics
+
+* [Standard Deviation](statistics/standard-deviation/README.md)
+* [Regression Analysis](statistics/regression/README.md)
+* [Statistical Model](statistics/statistical-model/README.md)
+* Statistical Inference
+
+### Probability Theory
+
+* Sample Space
+* Random Variables
+* Event
+* Bernoulli trial
+* Probability Distribution
+* Probability Measure
+
+## Data preprocessing
+* [Data cleaning](preprocessing/data-cleaning/README.md)
+* [Data Encoding](preprocessing/data-encoding/README.md)
+    * [Label Encoding](preprocessing/data-encoding/label-encoding/README.md)
+    * [One Hot Encoding](preprocessing/data-encoding/one-hot-encoding/README.md)
+    * [Cardinal Encoding](preprocessing/data-encoding/cardinal-encoding/README.md)
+    * [Helmert Encoding](preprocessing/data-encoding/helmert-encoding/README.md)
+    * [Binary Encoding](preprocessing/data-encoding/binary-encoding/README.md)
+    * [Frequency Encoding](preprocessing/data-encoding/frequency-encoding/README.md)
+    * [Mean Encoding](preprocessing/data-encoding/mean-encoding/README.md)
+* [Feature scaling](preprocessing/feature-scaling/README.md)
+
+## Recommended books
 
 * Understanding Analysis - Abbot
 * Linear Algebra Done Right - Sheldon Axler
